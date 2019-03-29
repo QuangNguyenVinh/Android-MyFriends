@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="large_txtView">20sp</dimen>
+    <dimen name="medium_txtView">15sp</dimen>
+</resources>

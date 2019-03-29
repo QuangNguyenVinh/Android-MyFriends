@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFriends</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtView_Contact">Contact</string>
+    <string name="txtView_ID">ID</string>
+    <string name="txtView_Name">Name</string>
+    <string name="txtView_Birthday">Birthday</string>
+    <string name="txtView_Address">Address</string>
+    <string name="txtView_Phone">Phone</string>
+    <string name="btn_Save">Save</string>
+    <string name="btn_Cancel">Cancel</string>
+</resources>
